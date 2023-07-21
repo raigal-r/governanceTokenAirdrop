@@ -2,7 +2,7 @@
 pragma solidity ^0.8.17;
 
 import "forge-std/Test.sol";
-import {Airdrop} from "../src/Airdrop.sol";
+import {Airdrop} from "../src/GovernanceToken.sol";
 import {BaseTest} from "./base/BaseTest.t.sol";
 
 
